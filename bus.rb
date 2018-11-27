@@ -7,7 +7,9 @@ class Bus
     @destination = destination
   end
 
-
+  # def driving_sound()
+  #   return  "Brum brum"
+  # end
 
 
 
